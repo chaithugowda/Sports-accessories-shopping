@@ -1,0 +1,60 @@
+body{
+	
+	margin: 0 auto;
+background-image: url("D:/Project Files/5thsem_project/ShoppingHeart/shoppingHeart/images/08830_HD.jpg");
+background-repeat: no-repeat;
+background-size: 100% 720px;
+}
+.container{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	background-color: rgba(0, 26, 0,0.7);
+	
+	border-radius: 4px;
+	margin: 0 auto;
+margin-top: 150px;
+	} 
+	.container img{
+		width: 120px;
+		height: 120px;
+		margin-top: -60px;
+		margin-bottom: 40px
+	}
+input[type="text"],input[type="password"]{
+	height: 45px;
+	width: 300px;
+	font-size: 18px;
+	border:none;
+	margin-bottom: 18px;
+	border-radius: 4px;
+	background-color: #fff; 
+	padding-left: 30px;
+}
+
+    
+ 
+.form-input: nth-child::before {
+	content: "\fo23";
+
+}
+
+.btn-login{
+	padding:: 25px 30px;
+	cursor: pointer;
+	color: #fff;
+	border-radius: 3px;
+	border: none;
+
+	background-color: #2ecc71;
+	border-bottom: 4px solid #2ecc70;
+	margin-bottom: 20px;
+
+}
+a{
+	color :#00ffcc;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+
+}
